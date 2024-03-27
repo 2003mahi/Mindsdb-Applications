@@ -1,6 +1,6 @@
 # Mindsdb-Applications
 
-#Example MindsDB Web Application: Crypto ML Forecasting
+MindsDB Web Application: Cryptocurrency Forecasting with Machine Learning
 
 This is an example of the power of MindsDB and how it can simplify applying machine learning to your applications. We will train our own ML models and use them to predict the price of several cryptocurrencies against USDT a minute into the future. Anyone can replicate this example, and train their own models to predict the future prices of cryptocurrencies.
 
@@ -15,7 +15,7 @@ Crypto Dashboard Example
 Installation
 First, clone the repository
 
-git clone https://github.com/mindsdb/js-example.git
+git clone " link "
 
 Next, you need to install dependencies.
 
